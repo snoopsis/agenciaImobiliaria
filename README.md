@@ -5,5 +5,5 @@ Website - HTML, CSS, JS
 
 Pagina de demonstracao disponivel <a href="http://bahiaimovies.website">Aqui.</a>
 
-<img src="http://157.230.177.222/imoveis-home.jpg" align="center">
+<img src="http://157.230.177.222/imoveis-home.jpg">
 
